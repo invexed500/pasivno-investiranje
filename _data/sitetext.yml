@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     title: "Usluge"
     section: services
     list:
-      - title: "[E-priručnik](#portfolio)"
+      - title: "[E-priručnik](#contact)"
         desc:  "Na web stranici možete kupiti priručnik [**Pragmatični pristup investiranju**](#portfolio) po povoljnoj cijeni.
 	        <br><br>E-priručnik je namijenjen početnicima koji žele na strukturiran i sistematičan način usvojiti temeljne pojmove i mehanizme financijskog tržišta te u kratkom vremenu steći potrebno znanje za samostalno ulaganje. E-priručnik je nastao iz želje da se investiranje približi „običnom“ čovjeku našeg govornog područja."
         icon: fas fa-book #find more at https://fontawesome.com/icons"
