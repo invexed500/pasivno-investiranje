@@ -1,0 +1,421 @@
+#
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  header:
+    text: "invexed"
+    button: ROI 193.90%
+    buttonlink: "#portfolio"
+
+  about:
+    title: "O stranici"
+    text: "Put do financijske neovisnosti započinje, kao i svako putovanje, prvim korakom."
+    body: "**Dobrodošli** na stranicu posvećenu pasivnom ulaganju – jednostavnom, ali učinkovitom pristupu izgradnje finacijske budućnosti. Ovdje ćete pronaći ključne principe i strategije pasivnog investiranja temeljene na filozofiji iz priručnika **Pragmatični pristup investiranju.**<br><br>**Cilj** ove stranice je na jasan i pristupačan način približiti temeljne principe investiranja u vrijednosne papire te istaknuti prednosti pasivnog ulaganja. Kroz vremenski provjerene strategije i metode, nastojim potaknuti čitatelje da preuzmu kontrolu nad svojom financijskom budućnošću i **samostalno započnu uspješan investicijski put!**"
+    section: about
+
+  services:
+    title: "Usluge"
+    section: services
+    list:
+      - title: "[E-priručnik](#portfolio)"
+        desc:  "Na web stranici možete kupiti priručnik [**Pragmatični pristup investiranju**](#portfolio) po povoljnoj cijeni.
+	        <br><br>E-priručnik je namijenjen početnicima koji žele na strukturiran i sistematičan način usvojiti temeljne pojmove i mehanizme financijskog tržišta te u kratkom vremenu steći potrebno znanje za samostalno ulaganje. E-priručnik je nastao iz želje da se investiranje približi „običnom“ čovjeku našeg govornog područja."
+        icon: fas fa-book #find more at https://fontawesome.com/icons"
+      - title: "[Analiza strategije](#team)"
+        desc: "Nudim uslugu [**backtestinga**](#contact) investicijskih algoritama i strategija, omogućujući objektivnu analizu njihove učinkovitosti na povijesnim podacima.
+               <br><br>Pružam isključivo uslugu testiranja jasno definiranih i nedvosmislenih modela koje je osmislio klijent, bez sudjelovanja u njihovom razvoju ili optimizaciji. Radi potpune transparentnosti, želim naglasiti da privatno ne koristim računalne algoritme u svom investicijskom pristupu."
+        icon: fas fa-laptop
+
+  portfolio:
+    title: "Članci"
+    text: "Sažeti i informativni članci temeljeni na poglavljima knjige Pragmatičan pristup investiranju."
+    section: portfolio
+    closebutton: "Zatvori"
+
+  timeline:
+    title: "Investicijski put"
+    text: "Ulaganje je maraton, a ne sprint. Strpljenje, dosljednost i dugoročna vizija ključ su uspjeha."
+    section: timeline
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "Kuća se gradi od čvrstih temelja"
+        desc: "Svaki uspješan investicijski put započinje znanjem.
+	       Usvajanje [osnovnih pojmova](#portfolio) prvi je korak prema financijskoj sigurnosti.
+	       Poznavanjem temeljnih pojmova i mehanizama, ulaganje prestaje biti špekulacija i postaje investicija.
+	       <br><br>**90% ljudi izgubi novce trgujuči dionoicama!**
+	       Priručnik [*Pragmatičan pristup investiranju*](#contact) objašnjava temeljne pojmove financijskog tržišta i predstavlja vremenom testiranu strategiju **koja dugoročno ostvaruje bolje rezultate od 95% fond menadžera.**
+               "
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Definiranje jasnog vremenski određenog cilja"
+        desc: "
+                Prije svakog ulaganja ključno je jasno definirati i razumjeti [cilj investiranja](#portfolio).
+                <br><br>Dobro definiran cilj trebao bi odgovarati na šest ključnih pitanja:
+                <br>**Tko?** – Tko je investitor? Koje su njegove osobne, financijske i investicijske karakteristike?
+                <br>**Što?** – Što želimo postići investiranjem? Koji je krajnji cilj ili rezultat ulaganja?
+                <br>**Kada?** – Kada planiramo ostvariti cilj? Koji je vremenski period ulaganja?
+                <br>**Gdje?** – Geografska lokacija gdje se vidimo za određeni broj godina?
+                <br>**Kako?** – Kako ćemo doći do željenog cilja? Koje strategije i taktike će biti primijenjene?
+                <br>**Zašto?** – Zašto ulažemo? Koji je temeljni razlog za odabrani investicijski cilj, kao i motivacija koja stoji iza donošenja tih odluka?
+                <br><br>Odgovori na ova pitanja pomoći će u formuliranju jasne i razmjerne investicijske strategije. [E-priručnik](#contact) će Vam pomoći odgovoriti na pitanje **kako** i **kada**?
+              "
+        image: assets/img/timeline/2.jpg
+        alt:
+      - title: "Kreiranje fonda za \"crne\" dane"
+        desc: "
+                **Ljudi najčešće prodaju jeftino iz potrebe, a ne iz želje!**
+                Prije nego što započnemo s investiranjem u volatilne financijske instrumente, trebamo se pripremiti za \"teška\" vremena ili iznenadne troškove.
+                <br><br>[Fond za \"crne\" dane](#portfolio) treba pokriti troškova života za razdoblje od 3 do 6 mjeseci, ovisno o toleranciji na rizik. Peporučuju se likvidni instrumenti s malom stopom rizika.
+              "
+        image: assets/img/timeline/3.jpg
+        alt: 
+      - title: "Odabir optimalnog investicijskog sredstva"
+        desc: "
+               Suporotno popularnom uvjerenju, investiranje je poprilično jednostavan i dosadan proces.
+               <br><br>Ulaganje u [ETF-ove](#portfolio) (*fondove kojima se trguje na burzi*) koji repliciraju široke tržišne indekse poput S&P500 ili FTSE All-World index series. Ovakav pristup omogućuje investitorima izgradnju diversificiranog portfelja uz niske troškove upravljanja, s prosječnim godišnjim prinosima od 14% u posljednjem desetljeću.
+               <br><br>Jedna od učinkovitih metoda ulaganja u ovakve ETF-ove je strategija [DCA](#portfolio)(*eng. Dollar-Cost Averaging*).
+              "
+        image: assets/img/timeline/4.jpg
+        alt:
+        # you can enforce the alignment
+        align: right
+    end: "<br><br><br>Iskoristite moć složene kamatne stope!"
+    
+  team:
+    title: "O MENI"
+    text: "Pozdrav, ja sam M. Fidelis, razvojni inženjer s dugogodišnjim iskustvom u tehnologiji i financijama.<br>Zbog prirode mog posla koristim pseudonim, jer bi se ova web stranica mogla naći u potencijalnom konfliktu interesa s tvrtkom za kojoj trenutno radim."
+    subtext: "
+              Kroz svoje tekstove i istraživanja dijelim uvide i pristupe koji pomažu u razumijevanju naizgled složenih financijskih tema, uvijek s naglaskom na racionalan i dugoročan pristup investiranju.
+              Nadam se da ću Vam objavama pomoći na Vašem putu prema financijskoj slobodi.
+              <br><br> **Nisam financijski niti porezni savjetnik. Sve što objavljujem temelji se na osobnom iskustvu i istraživanju te ne predstavlja profesionalni financijski ili porezni savjet. Svaka investicijska odluka je isključivo Vaša odgovornost, te ne odgovaram za eventualne financijske gubitke.**"
+    section: team
+    people:
+      - name: "M. Fidelis"
+        role: "Razvojni inženjer"
+        image: assets/img/team/1.jpg
+        
+
+  contact:
+    title: "Kontakt"
+    text: "Ukoliko imate pitanja ili ste zainteresirani za suradnju, slobodno me kontaktirajte.<br>Radujem se mogućnosti razmjene ideja i potencijalne suradnje."
+    section: contact
+
+  footer:
+    legal: "Pravila privatnosti"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
+# Spanish
+# -------
+es: &DEFAULT_ES
+  header:
+    title: ¡Bienvenido a nuestro Estudio!
+    text: Es un placer conocerle
+    button: Ver más
+    buttonlink: "#servicios"
+
+  services:
+    title: "Servicios"
+    text: "Lorem ipsum"
+    section: servicios
+    list:
+      - title: "Comercio Electrónico"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Diseño Responsivo"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Su descripción aquí, soporte completo de **Markdown**"
+        icon: fab fa-markdown
+
+  portfolio:
+    title: "NOVOSTI"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portafolio
+    closebutton: "Cerrar Proyecto"
+
+  timeline:
+    title: "Cronología"
+    text: "Lorem ipsum timeline"
+    section: cronologia
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "Nuestro Humilde Comienzo"
+        year: "2009-2011"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Una Agencia nace"
+        year: "March 2011"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        image: assets/img/timeline/2.jpg
+        alt:
+      - title: "La plantilla Jekyll es creada"
+        year: "2019"
+        desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "Título"
+        year: "2009-2011"
+        desc: "Su descripción aquí, **Markdown** es soportado completamente."
+        image: assets/img/timeline/4.jpg
+        alt:
+        # you can enforce the alignment
+        align: right
+    end: "¡Se parte <br> de Nuestra <br> Historia!"
+
+  about:
+    title: "Sobre nosotros"
+    text: "nuestra historia"
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: nosotros
+
+  clients:
+    section: clientes
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "envato"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/envato.jpg
+      - title: "designmodo"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
+      - title: "themeforest"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/themeforest.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
+
+  team:
+    title: "NUESTRO INCREÍBLE EQUIPO"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    section: equipo
+    people:
+      - name: "Kay Garland"
+        role: "Lead Designer"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Larry Parker"
+        role: "Lead Marketer"
+        image: assets/img/team/2.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Diana Perterson"
+        role: "Lead Developer"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
+  contact:
+    title: "Contáctenos"
+    text: "Lorem ipsum or call 123456789"
+    section: contacto
+    name: "Nombre*"
+    name-validation: "Por favor ingrese su nombre."
+    email: "Correo Electrónico*"
+    email-validation: "Por favor ingrese su correo electrónico."
+    phone: "Número Telefónico*"
+    phone-validation: "Por favor ingrese su número telefónico."
+    message: "Mensaje*"
+    message-validation: "Por favor escriba un mensaje."
+    subject: "Envío del formulario de contacto"
+    submit: "Enviar Mensaje"
+
+  footer:
+    legal: "Política de Privacidad"
+    social:
+      - url: https://twitter.com
+        icon: "fab fa-twitter"
+      - url: https://facebook.com
+        icon: "fab fa-facebook-f"
+      - url: https://linkedin.com
+        icon: "fab fa-linkedin-in"
+      - url: https://github.com/raviriley/agency-jekyll-theme
+        icon: "fab fa-github"
+      - url: https://instagram.com
+        icon: "fab fa-instagram"
+es-ES:
+  <<: *DEFAULT_ES
+es-CO:
+  <<: *DEFAULT_ES
+
+# Deutsch
+# -----------------
+de: &DEFAULT_DE
+  header:
+    title: Willkommen auf unserer Webseite!
+    text: Schön das Sie hier sind!
+    button: Mehr erfahren
+    buttonlink: "#Angebote"
+
+  services:
+    title: "Leistungen"
+    text: "Was wir anbieten."
+    section: Leistungen
+    list:
+      - title: "E-Commerce"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Responsive Design"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop
+      - title: "[Markdown](https://de.wikipedia.org/wiki/Markdown)"
+        desc: "Hier können Sie etwas mit **Markdown** einfügen."
+        icon: fab fa-markdown
+
+  portfolio:
+    title: "Portfolio"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: Portfolio
+    closebutton: "Schließen"
+
+  timeline:
+    title: "Geschichte"
+    text: "Lorem ipsum timeline"
+    section: Geschichte
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "Unsere Anfänge"
+        year: "2009-2011"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Gründung der Firma"
+        year: "März 2011"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        image: assets/img/timeline/2.jpg
+        alt:
+      - title: "Das Jekyll-Thema wurde erstellt"
+        year: "2019"
+        desc: "Ravi Riley wandelte Agency, ein auf Bootstrap basierendes Thema, in ein Jekyll-Thema um. Man kann das Jekyll-Thema als Ruby-Gem oder remotely installieren. Für mehr Informationen, schauen Sie sich die Dokumentation an."
+        image: assets/img/timeline/3.jpg
+        alt: Bildbeschreibung
+      - title: "Titel"
+        year: "2009-2011"
+        desc: "Hier können Sie etwas mit **Markdown** einfügen."
+        image: assets/img/timeline/4.jpg
+        alt:
+        # you can enforce the alignment
+        align: right
+    end: "Seien Sie <br> Teil unserer <br> Geschichte!"
+
+  about:
+    title: "Über uns"
+    text: "Unsere Geschichte."
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: Ueber
+
+  clients:
+    section: Kunden
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "envato"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/envato.jpg
+      - title: "designmodo"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
+      - title: "themeforest"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/themeforest.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
+
+  team:
+    title: "Unser großartiges Team"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    section: Team
+    people:
+      - name: "Kay Garland"
+        role: "Chef-Designer"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Larry Parker"
+        role: "Chef der Werbeabteilung"
+        image: assets/img/team/2.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Diana Perterson"
+        role: "Chef-Programmiererin"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
+  contact:
+    title: "Kontakt"
+    text: "Kontaktieren Sie uns."
+    section: Kontakt
+    name: "Name*"
+    name-validation: "Geben Sie einen Namen ein."
+    email: "E-Mail*"
+    email-validation: "Geben Sie Ihre E-Mail-Addresse ein."
+    phone: "Telefonnummer*"
+    phone-validation: "Geben Sie Ihre Telefonnummer ein."
+    message: "Nachricht*"
+    message-validation: "Schreiben Sie etwas..."
+    subject: "Kontakt-Formular Bestätigung"
+    submit: "Nachricht absenden"
+
+  footer:
+    legal: "Datenschutzerklärung"
+    social:
+      - url: https://twitter.com
+        icon: "fab fa-twitter"
+      - url: https://facebook.com
+        icon: "fab fa-facebook-f"
+      - url: https://linkedin.com
+        icon: "fab fa-linkedin-in"
+      - url: https://github.com/raviriley/agency-jekyll-theme
+        icon: "fab fa-github"
+      - url: https://instagram.com
+        icon: "fab fa-instagram"
+de-DE:
+  <<: *DEFAULT_DE
