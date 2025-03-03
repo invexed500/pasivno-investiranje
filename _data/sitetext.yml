@@ -80,7 +80,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "<br><br><br>Iskoristite moć složene kamatne stope!"
+    end: "Iskoristite moć složene kamatne stope!"
     
   team:
     title: "O MENI"
