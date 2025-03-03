@@ -14,7 +14,7 @@ Prije nego što započnemo s investiranjem u volatilne financijske instrumente, 
 Krize na financijskim tržištima često su praćene masovnim otkazima, jer negativni ekonomski uvjeti i nestabilnost obično dovode do smanjenja radnih mjesta i općenite recesije u mnogim industrijama.
 **Ključno je da ne budemo vođeni emocijama i egzistencijalnim strahovima.**
 <br><br>
-Emergency fund treba omogućiti pokrivanje troškova života za razdoblje od 3 do 6 mjeseci, ovisno o toleranciji na rizik.
+Emergency fond treba omogućiti pokrivanje troškova života za razdoblje od 3 do 6 mjeseci, ovisno o toleranciji na rizik.
 Fond treba pokrivati osnovne troškove poput režija, hrane, kredita i drugih financijskih obaveza.
 **Važno ga je ne držati u gotovini jer inflacija umanjuje njegovu vrijednost.**
 Umjesto toga, preporučuju se likvidni instrumenti s niskom stopom rizikom.
