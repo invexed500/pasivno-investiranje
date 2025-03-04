@@ -17,7 +17,7 @@ ROI (povrat investicije) je pokazatelj koji se koristi za mjerenje profitabilnos
   \text{ROI} = \frac{\text{Vrijednost portfelja} - \text{Ukupno uloženo}}{\text{Ukupno uloženo}} \times 100\%  
   $$  
 </div>
-**ANALIZA GRAFA**<br><br>
+<br><br>**ANALIZA GRAFA**<br><br>
 **Portfelj INVEXED** sastoji se od ETF-a koji prati indeks S&P 500 (**CSPX**) i kriptovalute firme Ripple (**XRP**).
 
 Primjenjuje se strategija ulaganja metodom DCA u omjeru 70:30, s primarnim fokusom na CSPX (*kupovina instrumenata provodi se prvog dana svakog mjeseca prema navedenom omjeru*). Rebalans portfelja provodi se isključivo ako udio XRP-a dosegne 40% ukupne vrijednosti portfelja.
