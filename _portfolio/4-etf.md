@@ -25,7 +25,7 @@ ETF-ovi mogu pratiti određeni tržišni indeks, sektor, robu ili investicijsku 
   prema zakonima RH oslobođeni ste plaćanja poreza na kapitalnu dobit! *(FIFO)* 
 <br><br>
 **ANALIZA GRAFA**<br><br>
-Kupnjom udjela u **CSPX-u** (*akumulirajući ETF koji prati S&P 500*) i **ZABA Future 2040** (*aktivno upravljani fond*) po lump-sum metodi 2015. godine (*u trenutku osnutka ZABA Future 2040, uz identičan iznos ulaganja*), te njihovom prodajom 2025. godine, ostvaren je prinos **261% za CSPX**, dok je ROI za **ZABA Future 2040 iznosio skromnih 76%**.
+Kupnjom udjela u **CSPX-u** (*akumulirajući ETF koji prati S&P 500*) i **ZABA Future 2040** (*aktivno upravljani fond*) po lump-sum metodi 2015. godine (*u trenutku osnutka ZABA Future 2040, uz identičan iznos ulaganja*), te njihovom prodajom 2025. godine, ostvaren je prinos **261% za CSPX**, dok ROI za **ZABA Future 2040 iznosio skromnih 76%**.
 <br><br>
 *Više informacija o klasifikaciji ETF-ova i tržišnim indeksima dostupno je u e-priručniku.*
 
