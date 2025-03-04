@@ -17,7 +17,7 @@ Omogućava investitorima da ulažu u različite vrste imovine (više različitih
 ETF-ovi mogu pratiti određeni tržišni indeks, sektor, robu ili investicijsku klasu, omogućujući investitorima diverzifikaciju portfelja bez potrebe za kupnjom pojedinačnih vrijednosnih papira.
 <br>ETF-ovi u koje ima smisla ulagati su **indeksni širokog spektra** (*indeks obuhvaća velik broj kompanija*), **pasivni** (*bez menadžera fonda koji aktivno izabire vrijednosne papire*) i **akumulirajući** (*dividenda se reinvestira*)!
 <br><br>Vodeći se napisanim ostvarili ste sljedeće:
-<br>**1. Diverzifikaciju:** Ne držite sva jaja u istoj košari!
+<br>**1. Diverzifikaciju:** Ne držite sva jaja u jednoj košari!
 <br>**2. Niski troškovi ulaganja:** Fondom ne upravlja fond menadžer, ne plaćate porez na “budale”. 
   <br>**Dugoročno (10 godina i više) manje od 5 % aktivno upravljanih fondova uspijeva pobijediti S&P 500!**
 <br>**3. Složena kamata:** Reinvestiranje prihoda pojačava efekt složene kamate, što povećava prinos na duži rok.
