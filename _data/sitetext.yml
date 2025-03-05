@@ -47,7 +47,7 @@ en: &DEFAULT_EN
 	       Priručnik [*Pragmatičan pristup investiranju*](#contact) objašnjava temeljne pojmove financijskog tržišta i predstavlja vremenom testiranu strategiju **koja dugoročno ostvaruje bolje rezultate od 95% fond menadžera.**
                "
         image: assets/img/timeline/1.jpg
-        alt:
+        alt: "Osnovni pojmove poput ETF, ROI, DCA, razlika između špekluacije i investicije nalaze se u e-priručniku."
       - title: "Definiranje jasnog vremenski određenog cilja"
         desc: "
                 Prije svakog ulaganja ključno je jasno definirati i razumjeti [cilj investiranja](#portfolio).
@@ -61,7 +61,7 @@ en: &DEFAULT_EN
                 <br><br>Odgovori na ova pitanja pomoći će u formuliranju jasne i razmjerne investicijske strategije. [E-priručnik](#contact) će Vam pomoći odgovoriti na pitanje **kako** i **kada**?
               "
         image: assets/img/timeline/2.jpg
-        alt:
+        alt: "Prije investiranja moramo imati jasno defniran cilj i očekivanja."
       - title: "Kreiranje fonda za \"crne\" dane"
         desc: "
                 **Ljudi najčešće prodaju jeftino iz potrebe, a ne iz želje!**
@@ -69,7 +69,7 @@ en: &DEFAULT_EN
                 <br><br>[Fond za \"crne\" dane](#portfolio) treba pokriti troškova života za razdoblje od 3 do 6 mjeseci, ovisno o toleranciji na rizik. Peporučuju se likvidni instrumenti s malom stopom rizika.
               "
         image: assets/img/timeline/3.jpg
-        alt: 
+        alt:  "Emergency fund treba pokriti troškova života za razdoblje od 3 do 6 mjeseci."
       - title: "Odabir optimalnog investicijskog sredstva"
         desc: "
                Suporotno popularnom uvjerenju, investiranje je poprilično jednostavan i dosadan proces.
@@ -77,7 +77,7 @@ en: &DEFAULT_EN
                <br><br>Jedna od učinkovitih metoda ulaganja u ovakve ETF-ove je strategija [DCA](#portfolio)(*eng. Dollar-Cost Averaging*).
               "
         image: assets/img/timeline/4.jpg
-        alt:
+        alt: "Optimalano investicijsko sredstvo je ETF širokog spektra dionica uz DCA."
         # you can enforce the alignment
         align: right
     end: "Iskoristite moć složene kamatne stope!"
@@ -94,7 +94,7 @@ en: &DEFAULT_EN
       - name: "M. Fidelis"
         role: "Razvojni inženjer"
         image: assets/img/team/1.jpg
-        
+        alt: "Pseudonim M. Fidelis, investicijski genije."
 
   contact:
     title: "Kontakt"
