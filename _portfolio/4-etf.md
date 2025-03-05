@@ -3,6 +3,7 @@ caption: #what displays in the portfolio grid:
   title: ETF
   subtitle: Exchange-Traded Fund
   thumbnail: assets/img/portfolio/4-etf-front.jpg
+  alt: Usporedba ETF-a CSPX i aktivno upravljanog fonda Zaba Future 2040.
   
 #what displays when the item is clicked:
 title: ETF
