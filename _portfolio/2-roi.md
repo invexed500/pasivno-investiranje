@@ -3,6 +3,7 @@ caption: #what displays in the portfolio grid:
   title: ROI
   subtitle: Povrat investicije portfelja Invexed
   thumbnail: assets/img/portfolio/2-front-roi.jpg
+  alt: Povrat od investicije portfelja Invexed.
   
 #what displays when the item is clicked:
 title: ROI
