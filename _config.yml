@@ -17,7 +17,7 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "" # the subpath of your site, e.g. /blog
 title      : Pasivno investiranje
 email      : pasivno.investiranje@gmail.com #this is also the email contact forms will go to
-description: "Stranica posvećena pasivnom investiranju i strategijama koje omogućuju dugoročni rast."
+description: "Stranica posvećena pasivnom investiranju, ulaganju u ETF-ove i provjerenim strategijama ulaganja koje omogućuju dugoročni rast kapitala uz minimalan rizik."
 author     : M.Fidelis
 
 locale: "en-US" # See available languages in _data/sitetext.yml
