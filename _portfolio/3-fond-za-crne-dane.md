@@ -3,6 +3,7 @@ caption: #what displays in the portfolio grid:
   title: Fond za "crne" dane
   subtitle: Emergency fund
   thumbnail: assets/img/portfolio/3-emergency-fund.jpg
+  alt: Fonda za crne dane ili emergency fund.
   
 #what displays when the item is clicked:
 title: Fond za "crne" dane
