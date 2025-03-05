@@ -13,7 +13,7 @@
 
 theme: jekyll-agency
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://pasivno-investiranje.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title      : Pasivno investiranje
 email      : pasivno.investiranje@gmail.com #this is also the email contact forms will go to
