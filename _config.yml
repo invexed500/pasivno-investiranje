@@ -23,7 +23,7 @@ author     : M.Fidelis
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-5GJMKWNY67
 
 collections:
   portfolio:
