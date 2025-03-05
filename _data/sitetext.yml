@@ -88,7 +88,7 @@ en: &DEFAULT_EN
     subtext: "
               Kroz svoje tekstove i istraživanja dijelim uvide i pristupe koji pomažu u razumijevanju naizgled složenih financijskih tema, uvijek s naglaskom na racionalan i dugoročan pristup investiranju.
               Nadam se da ću Vam objavama pomoći na Vašem putu prema financijskoj slobodi.
-              <br><br> **Nisam financijski niti porezni savjetnik. Sve što objavljujem temelji se na osobnom iskustvu i istraživanju te ne predstavlja profesionalni financijski ili porezni savjet. Svaka investicijska odluka je isključivo Vaša odgovornost, te ne odgovaram za eventualne financijske gubitke.**"
+              <br><br> *Nisam financijski niti porezni savjetnik. Sve što objavljujem temelji se na osobnom iskustvu i istraživanju te ne predstavlja profesionalni financijski ili porezni savjet. Svaka investicijska odluka je isključivo Vaša odgovornost, te ne odgovaram za eventualne financijske gubitke.*"
     section: team
     people:
       - name: "M. Fidelis"
