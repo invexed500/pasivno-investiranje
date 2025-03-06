@@ -17,7 +17,7 @@ url    : "https://pasivno-investiranje.com" # the base hostname & protocol for y
 baseurl: "" # the subpath of your site, e.g. /blog
 title      : Pasivno investiranje
 email      : pasivno.investiranje@gmail.com #this is also the email contact forms will go to
-description: "Pasivno investiranje. Članci posvećeni pasivnom investiranju, ulaganju u ETF-ove i provjerenim strategijama ulaganja koje omogućuju dugoročni rast kapitala uz minimalan rizik."
+description: "Pasivno investiranje kroz ETF-ove. Edukativni članci o jednostavnom i učinkovitom ulaganju."
 author     : M.Fidelis
 
 locale: "en-US" # See available languages in _data/sitetext.yml
