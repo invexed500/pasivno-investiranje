@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: ROI
+  title: ROI - Što je i kako izračunati povrat na investiciju?
   subtitle: Povrat investicije portfelja Invexed
   thumbnail: assets/img/portfolio/2-front-roi.jpg
   alt: Povrat od investicije portfelja Invexed.
