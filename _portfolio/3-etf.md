@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: ETF
+  title: ETF ulaganje: Što su ETF-ovi i zašto ualgati u njih?
   subtitle: Exchange-Traded Fund
   thumbnail: assets/img/portfolio/4-etf-front.jpg
   alt: Usporedba ETF-a CSPX i aktivno upravljanog fonda Zaba Future 2040.
