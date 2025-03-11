@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Kako izgraditi fond za "crne" dane
+  title: Kako i zašto izgraditi fond za "crne" dane ?
   subtitle: Emergency fund
   thumbnail: assets/img/portfolio/3-emergency-fund.jpg
   alt: Fonda za crne dane ili emergency fund.
