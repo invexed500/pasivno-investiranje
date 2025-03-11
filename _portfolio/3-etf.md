@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
   
 #what displays when the item is clicked:
 title: ETF
-subtitle: ´´Diverzifikacija je jedini besplatni ručak u investiranju.´´<br>— Harry Markowitz
+subtitle: ´Diverzifikacija je jedini besplatni ručak u investiranju.´<br>— Harry Markowitz
 image: assets/img/portfolio/4-etf.jpg
 alt: usporedba ETF-a CSPX.AS i fonda ZABA Fut 2040
 ---
