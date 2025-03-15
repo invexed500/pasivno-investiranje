@@ -14,9 +14,8 @@ alt: Ulaganje u ETF-ove uz DCA
 
 Dosad smo se bavili pitanjem u što investirati (*ETF koji prati široki indeks!*).
 
-**Drugo pitanje, a često i važnije od prvog, je kada i koliko investirati?**
-Da bismo odgovorili na drugo pitanje,
-<br>postavit ćemo dvije hipoteze (*najgora moguća slučaja u kojima se
+**Drugo pitanje, a često i važnije od prvog, je kada i koliko investirati?**<br>
+Da bismo odgovorili na drugo pitanje, postavit ćemo dvije hipoteze (*najgora moguća slučaja u kojima se
 nalazi investitor*):
 	<br>**1. Tržište je izrazito efikasno,**
 	<br>**2. Tržište je nepredvidivo.**
