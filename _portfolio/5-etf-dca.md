@@ -33,7 +33,7 @@ Na ovaj način, investitor u prosjeku kupuje imovinu po prosječnoj cijeni tijek
 **DCA strategija ulaganja eliminira utjecaj iracionalnih odluka i emocija, koje su glavni razlog loših 
 rezultata 95 % investitora (*jer cijena financijskog proizvoda u trenutku kupovine nije ono što nas bi nas zanima*).**
  
-*Detaljne informacije o DCA strategiji ulaganja, analizu ulaganja u ETF-ove putem DCA metode i rezultati backtestova dostupni su u e-priručniku.*
+*Detaljne informacije o DCA strategiji ulaganja, analizu ulaganja u ETF-ove putem DCA metode i rezultati backtestova dostupni su u [e-priručniku](https://pasivno-investiranje.lemonsqueezy.com/buy/c8585042-170b-4032-8c41-65ef9cdfeaf4).*
 
 {:.list-inline} 
 - Datum: 15.3.2025
