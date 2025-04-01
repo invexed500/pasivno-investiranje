@@ -30,7 +30,7 @@ Ulažući 500 EUR mjesečno (350 EUR u CSPX, 150 EUR u XRP) tijekom 7 godina, **
 Na dan prodaje, **vrijednost portfelja dosegnula bi 129 315 EUR**, što potvrđuje učinkovitost strategije.
 
 Nije loše za svega par minuta mjesečno!
-<br><br>*Više informacija o odabiru kriptovaluta, špekulativnom rastu, kontroli rizika, strategijama rebalansa portfelja i sveobuhvatnu analizu možete pronaći u e-priručniku.*
+<br><br>*Više informacija o odabiru kriptovaluta, špekulativnom rastu, kontroli rizika, strategijama rebalansa portfelja i sveobuhvatnu analizu možete pronaći u [e-priručniku](https://pasivno-investiranje.lemonsqueezy.com/buy/c8585042-170b-4032-8c41-65ef9cdfeaf4).*
 
 {:.list-inline} 
 - Datum: 2.3.2025
