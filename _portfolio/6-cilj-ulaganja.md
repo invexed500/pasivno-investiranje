@@ -6,7 +6,7 @@ caption: #what displays in the portfolio grid:
   alt: Definiranje cilja.
 
 #what displays when the item is clicked:
-title: Matematika ne laže.
+title: Matematika ne laže
 ---
 **Dobro definiran cilj ključ je svakog uspjeha.**
 
