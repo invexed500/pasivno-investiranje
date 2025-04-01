@@ -4,8 +4,8 @@
 en: &DEFAULT_EN
   header:
     text: "invexed"
-    button: ROI 193.90%
-    buttonlink: "#portfolio"
+    button: E-PRIRUČNIK O PASIVNOM INVESTIRANJU
+    buttonlink: "https://pasivno-investiranje.lemonsqueezy.com/buy/c8585042-170b-4032-8c41-65ef9cdfeaf4"
 
   about:
     title: "O stranici"
@@ -17,8 +17,8 @@ en: &DEFAULT_EN
     title: "Usluge"
     section: services
     list:
-      - title: "[E-priručnik](#contact)"
-        desc:  "Na web stranici možete kupiti priručnik [**Pragmatični pristup investiranju**](#contact) po povoljnoj cijeni.
+      - title: "[E-priručnik](https://pasivno-investiranje.lemonsqueezy.com/buy/c8585042-170b-4032-8c41-65ef9cdfeaf4)"
+        desc:  "Na web stranici možete kupiti priručnik [**Pragmatični pristup investiranju**](https://pasivno-investiranje.lemonsqueezy.com/buy/c8585042-170b-4032-8c41-65ef9cdfeaf4) po povoljnoj cijeni od 30 €.
 	        <br><br>E-priručnik je namijenjen početnicima koji žele na strukturiran i sistematičan način usvojiti temeljne pojmove i mehanizme financijskog tržišta te u kratkom vremenu steći potrebno znanje za samostalno ulaganje. E-priručnik je nastao iz želje da se investiranje približi „običnom“ čovjeku našeg govornog područja."
         icon: fas fa-book #find more at https://fontawesome.com/icons"
       - title: "[Analiza strategije](#team)"
@@ -44,7 +44,7 @@ en: &DEFAULT_EN
 	       Usvajanje [osnovnih pojmova](#portfolio) prvi je korak prema financijskoj sigurnosti.
 	       Poznavanjem temeljnih pojmova i mehanizama, ulaganje prestaje biti špekulacija i postaje investicija.
 	       <br><br>**90% ljudi izgubi novce trgujuči dionoicama!**
-	       Priručnik [*Pragmatičan pristup investiranju*](#contact) objašnjava temeljne pojmove financijskog tržišta i predstavlja vremenom testiranu strategiju **koja dugoročno ostvaruje bolje rezultate od 95% fond menadžera.**
+	       Priručnik [*Pragmatičan pristup investiranju*](https://pasivno-investiranje.lemonsqueezy.com/buy/c8585042-170b-4032-8c41-65ef9cdfeaf4) objašnjava temeljne pojmove financijskog tržišta i predstavlja vremenom testiranu strategiju **koja dugoročno ostvaruje bolje rezultate od 95% fond menadžera.**
                "
         image: assets/img/timeline/1.jpg
         alt: "Osnovni pojmove poput ETF, ROI, DCA, razlika između špekluacije i investicije nalaze se u e-priručniku."
@@ -58,7 +58,7 @@ en: &DEFAULT_EN
                 <br>**Gdje?** – Geografska lokacija gdje se vidimo za određeni broj godina?
                 <br>**Kako?** – Kako ćemo doći do željenog cilja? Koje strategije i taktike će biti primijenjene?
                 <br>**Zašto?** – Zašto ulažemo? Koji je temeljni razlog za odabrani investicijski cilj, kao i motivacija koja stoji iza donošenja tih odluka?
-                <br><br>Odgovori na ova pitanja pomoći će u formuliranju jasne i razmjerne investicijske strategije. [E-priručnik](#contact) će Vam pomoći odgovoriti na pitanje **kako** i **kada**?
+                <br><br>Odgovori na ova pitanja pomoći će u formuliranju jasne i razmjerne investicijske strategije. [E-priručnik](https://pasivno-investiranje.lemonsqueezy.com/buy/c8585042-170b-4032-8c41-65ef9cdfeaf4) će Vam pomoći odgovoriti na pitanje **kako** i **kada**?
               "
         image: assets/img/timeline/2.jpg
         alt: "Prije investiranja moramo imati jasno defniran cilj i očekivanja."
