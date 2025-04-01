@@ -22,7 +22,7 @@ Korištenjem gornje formule za složenu kamatnu stopu, dolazimo do zaključka da
 Godišnji prosječni povrat CSPX-a iznosi oko 14,5% (*bazirano na zadnjih 13 godina*). 
 <br>**Godišnji povrat naše investicije trebao bi iznositi 34.392 eura** (*2866 eura/mjesečno x 12 mjeseci*).
  
-<div style="background-color:#f3f3f3; padding:5px; border-radius:8px; font-size: 1em;"> $$ \text{glavnica} = \frac{\text{željni iznos}}{\text{cspx povrat}} $$ </div>
+<div style="background-color:#f3f3f3; padding:5px; border-radius:8px; font-size: 1em;"> $$ \text{glavnica} = \frac{\text{željeni iznos}}{\text{cspx povrat}} $$ </div>
 To znači da bi ukupno trebali imati investirano **237.186 eura**.
  
 <div style="background-color:#f3f3f3; padding:5px; border-radius:8px; font-size: 1em;"> $$ A = P \cdot \frac{(1 + \frac{r}{n})^{n \cdot t} - 1}{\frac{r}{n}} $$ </div>
