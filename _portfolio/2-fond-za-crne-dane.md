@@ -30,7 +30,7 @@ Umjesto toga, preporučuju se likvidni instrumenti s niskom stopom rizikom.
 
 <br><br>
 
-*Više informacija o kreiranju fonda za hitne slučajeve i njegovoj važnosti dostupno je u e-priručniku*
+*Više informacija o kreiranju fonda za hitne slučajeve i njegovoj važnosti dostupno je u [e-priručniku](https://pasivno-investiranje.lemonsqueezy.com/buy/c8585042-170b-4032-8c41-65ef9cdfeaf4)*
 
 {:.list-inline} 
 - Datum: 3.3.2025
